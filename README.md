@@ -1,6 +1,7 @@
 # Speed Typing Test
 
-![Скриншот приложения](<img width="792" height="531" alt="Снимок экрана 2026-02-26 145423" src="https://github.com/user-attachments/assets/052783b1-7f75-49ad-87cf-7399775d665d" />)
+![Скриншот приложения](<<img width="792" height="531" alt="image" src="https://github.com/user-attachments/assets/8f498c1e-f4f2-476a-9bc3-3bd875f2a17e" />
+" />)
 
 Простое приложение для проверки скорости печати на Python с графическим интерфейсом.
 
